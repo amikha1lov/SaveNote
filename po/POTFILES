@@ -1,0 +1,7 @@
+data/com.github.amikha1lov.SaveNote.desktop.in
+data/com.github.amikha1lov.SaveNote.appdata.xml.in
+data/com.github.amikha1lov.SaveNote.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

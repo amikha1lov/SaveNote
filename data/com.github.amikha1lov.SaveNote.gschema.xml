@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="savenote">
+	<schema id="com.github.amikha1lov.SaveNote" path="/com/github/amikha1lov/SaveNote/">
+	</schema>
+</schemalist>
